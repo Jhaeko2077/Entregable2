@@ -3,6 +3,7 @@ import pandas as pd
 import tensorflow as tf
 import os
 import matplotlib.pyplot as plt
+import seaborn as sns
 from sklearn.preprocessing import StandardScaler, OneHotEncoder, LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
